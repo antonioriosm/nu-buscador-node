@@ -1,0 +1,19 @@
+{
+  "name": "nu-buscador-node",
+  "version": "1.0.0",
+  "description": "evaluación final para módulo backend del curso de bigdata, hacer un buscador de acuerdo a especificaciones o requerimientos dados",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonioriosm/nu-buscador-node.git"
+  },
+  "author": "antonio.riosm@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antonioriosm/nu-buscador-node/issues"
+  },
+  "homepage": "https://github.com/antonioriosm/nu-buscador-node#readme"
+}
